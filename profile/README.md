@@ -1,18 +1,27 @@
-<h1><a href="https://citypassenger.com" target="_blank">Citypassenger</a></h1>
+<div align="center">
 
-## Wifi et pare-feu dans le Cloud et par abonnement
+![Citypassenger](img/City.png)
+
+### Nous créons de la valeur pour votre IT - [citypassenger.com](https://citypassenger.com/) 
+
+</div>
+
+<hr>
+
+## ☁️ Wifi et pare-feu dans le Cloud et par abonnement
 
 Nous virtualisons votre réseau IT,
 nous créons des services IT adaptés à votre métier et exigences professionnelles
 
-## Équipement
+## 📟 Équipement
 
 Nous fournissons un routeur universel tout en un pour votre réseau informatique ainsi
 que le nombre de bornes wifi nécessaires. Vous nous dites où vous souhaitez avoir du Wifi,
 nous nous engageons sur la couverture ! Notre matériel (routeur et bornes Wifi) est garanti
 durant toute la durée de l'abonnement.
 
-## Services par outils métiers ou par fonction réseaux
+## 🛠️ Services par outils métiers ou par fonction réseaux
+
 Vous choisissez les services de connectivité dont vous avez besoin pour votre métier : connecter
 un TPE, une tablette, la vidéosurveillance, la VOIP, une PLV ou tout autre équipement.
 Nous nous occupons de la sécurité nécessaire à y associer. Et bien sur, vous avez également
@@ -21,14 +30,14 @@ selon vos besoins : filtrage des accès HTTPS, liste noire, liste blanche, stock
 conformité avec la LCEN, wifi pour vos invités, sécurité renforcée pour les personnes itinérantes,
 back-up automatisé, PRA et bien sur VPN intersites et télétravail.
 
-## Contrôle
+## 📈 Contrôle
 
 La console web vous permet un accès et une prise en main à votre réseau 24/7.
 Accès dédiés pour vos équipes et prestataires extérieurs.
 Notre interface s'intègre également à vos outils de gestion de tickets. De nombreuses remontées d'alertes
 sont possibles et intégrées, demandez-nous !
 
-## Assistance & Expertise
+## 🤝 Assistance & Expertise
 
 Nos télé-consultants vous assistent en vous accompagnant dans vos problèmes réseaux quotidiens
 et plus généralement dans vos choix d'architecture réseaux et leurs évolutions.
