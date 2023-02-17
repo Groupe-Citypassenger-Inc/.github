@@ -1,16 +1,9 @@
 <h1><a href="https://citypassenger.com" target="_blank">Citypassenger</a></h1>
 
- Nous créons de la valeur pour votre IT.
+Nous créons de la valeur pour votre IT.
 
-## ✨ Nouvelle interface
-
-La nouvelle interface [Cityscope](https://admin.citypassenger.com/Accounts) présente de manière érgonomique l'ensemble des fonctions réseaux de vos boitiers. Elles vous permet d'accèder en un clic aux applications qui vous sont utiles.
-[En savoir plus](https://github.com/Groupe-Citypassenger-Inc/cityscope).
-
-![Interface](img/Cityaccounts.png)
-
-Un problème, une question ou une demande lié à l'interface ? [Créer une isssue](https://github.com/Groupe-Citypassenger-Inc/cityscope/issues).
-
+[✨ Nouvelle interface disponible ✨](#-nouvelle-interface)
+ 
 ## ☁️ Wifi et pare-feu dans le Cloud et par abonnement
 
 Nous virtualisons votre réseau IT
@@ -46,6 +39,15 @@ Nos télé-consultants vous assistent en vous accompagnant dans vos problèmes r
 et plus généralement dans vos choix d'architecture réseaux et leurs évolutions.
 À la demande, notre équipe itinérante et notre réseau de prestataires qualifiés,
 interviennent également en moins de 2 heures sur votre site.
+
+## ✨ Nouvelle interface
+
+La nouvelle interface [Cityscope](https://admin.citypassenger.com/Accounts) présente de manière érgonomique l'ensemble des fonctions réseaux de vos boitiers. Elles vous permet d'accèder en un clic aux applications qui vous sont utiles.
+[En savoir plus](https://github.com/Groupe-Citypassenger-Inc/cityscope).
+
+![Interface](img/Cityaccounts.png)
+
+Un problème, une question ou une demande lié à l'interface ? [Créer une isssue](https://github.com/Groupe-Citypassenger-Inc/cityscope/issues).
 
 <div align="center">
 <br>
