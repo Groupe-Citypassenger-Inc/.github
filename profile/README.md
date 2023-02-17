@@ -45,7 +45,7 @@ interviennent également en moins de 2 heures sur votre site.
 La nouvelle interface [Cityscope](https://admin.citypassenger.com/Accounts) présente de manière érgonomique l'ensemble des fonctions réseaux de vos boitiers. Elles vous permet d'accèder en un clic aux applications qui vous sont utiles.
 [En savoir plus](https://github.com/Groupe-Citypassenger-Inc/cityscope).
 
-![Interface](img/Cityaccounts.png)
+![Interface](https://raw.githubusercontent.com/Groupe-Citypassenger-Inc/.github/main/profile/img/Cityaccounts.png )
 
 Un problème, une question ou une demande lié à l'interface ? [Créer une isssue](https://github.com/Groupe-Citypassenger-Inc/cityscope/issues).
 
@@ -54,7 +54,7 @@ Un problème, une question ou une demande lié à l'interface ? [Créer une isss
 <br>
 <a href="https://citypassenger.com">
 
-![Citypassenger](img/City.png)
+![Citypassenger](https://raw.githubusercontent.com/Groupe-Citypassenger-Inc/.github/main/profile/img/City.png )
 
 </a>
 </div>
